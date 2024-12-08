@@ -1,0 +1,5 @@
+{
+    "port": "/dev/tty.usbmodem211101",
+    "board": "arduino:avr:leonardo",
+    "sketch": "l_chika.ino"
+}
